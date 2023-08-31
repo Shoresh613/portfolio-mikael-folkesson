@@ -15,4 +15,4 @@ My name is Mikael Folkesson, and I am a software developer with a bachelor degre
 
 ## The purpose of this portfolio repository
 
-I will add stuff to this repo continuosly during my time at ITHS, to show what projects I have done both as part of the assignments, but also personal projects.
+I will add stuff to this repo continuosly during my time at ITHS, to show what projects I have done both as part of the assignments and personal projects.
